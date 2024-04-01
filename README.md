@@ -22,7 +22,9 @@
 [![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
 [![Python](https://img.shields.io/badge/Python-%2300599C.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Selenium](https://img.shields.io/badge/Selenium-%2300599C.svg?style=for-the-badge&logo=selenium&logoColor=white)](https://www.selenium.dev/)
-[![TestNG](https://img.shields.io/badge/TestNG-%2300599C.svg?style=for-the-badge&logo=TestNGlogoColor=white)](https://www.pngegg.com/en/png-eonml)
+[![TestNG](https://img.shields.io/badge/TestNG-%23E34F26.svg?style=for-the-badge&logo=testng&logoColor=white)](https://testng.org/doc/)
+[![Docker](https://img.shields.io/badge/Docker-%23099CEC.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white)](https://www.jenkins.io/)
 
 
 # 📊 GitHub Stats:
