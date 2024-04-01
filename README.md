@@ -25,6 +25,10 @@
 [![TestNG](https://img.shields.io/badge/TestNG-%23E34F26.svg?style=for-the-badge&logo=testng&logoColor=white)](https://testng.org/doc/)
 [![Docker](https://img.shields.io/badge/Docker-%23099CEC.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white)](https://www.jenkins.io/)
+[![BDD](https://img.shields.io/badge/BDD-%230A0A0A.svg?style=for-the-badge&logo=bdd&logoColor=white)](https://en.wikipedia.org/wiki/Behavior-driven_development)
+[![Aquality Framework](https://img.shields.io/badge/Aquality_Framework-%236DB33F.svg?style=for-the-badge&logoColor=white)](https://github.com/aquality-automation/aquality-selenium)
+[![Page Object](https://img.shields.io/badge/Page_Object-%23E34F26.svg?style=for-the-badge&logo=pageobject&logoColor=white)](https://www.selenium.dev/documentation/en/guidelines_and_recommendations/page_object_models/)
+[![Allure Report](https://img.shields.io/badge/Allure_Report-%230099CE.svg?style=for-the-badge&logo=allure&logoColor=white)](http://allure.qatools.ru/)
 
 
 # 📊 GitHub Stats:
