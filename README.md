@@ -15,7 +15,7 @@ Here are a few things you might want to know about me🌟
 
 🔍 Keen on meticulously crafting and executing test plans for seamless software delivery.
 
-🚀 Seeking Opportunities: Looking to contribute to a dynamic team, ensuring high-quality software solutions through robust SQA practices.
+🚀 Looking to contribute to a dynamic team, ensuring high-quality software solutions through robust SQA practices.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/mrittika.sengupta.735/photos) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_m_r_i_t_t_i_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mrittika-sengupta-5469121ba/) 
