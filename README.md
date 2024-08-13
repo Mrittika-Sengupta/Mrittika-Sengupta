@@ -18,7 +18,7 @@ Here are a few things you might want to know about me🌟
 🚀 Looking to contribute to a dynamic team, ensuring high-quality software solutions through robust SQA practices.
 
 ## 🌐 Reach Me:
-[![Gmail](mrittika.nsu12@gmail.com)](mrittika.nsu12@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mrittika-sengupta-5469121ba/) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:mrittika.nsu12@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrittika-sengupta-5469121ba/)
 
 # 💻 Tech Stack:
 [![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
