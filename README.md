@@ -5,10 +5,15 @@
 # 💫 About Me:
 Here are a few things you might want to know about me🌟
 🚀 Driven by passion in every role, from functional to automation testing.
+
 🌟 Always eager to dive into new technologies, problem-solving, and enhancing testing skills.
+
 ⏰ Committed to meeting deadlines with efficiency and precision.
+
 💪 Ready to go the extra mile to achieve exceptional results.
+
 🔍 Keen on meticulously crafting and executing test plans for seamless software delivery.
+
 🚀 Seeking Opportunities: Looking to contribute to a dynamic team, ensuring high-quality software solutions through robust SQA practices.
 
 ## 🌐 Socials:
