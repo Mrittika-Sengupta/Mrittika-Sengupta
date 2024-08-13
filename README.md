@@ -3,8 +3,13 @@
 ![code](https://undo.io/media/uploads/files/Frustrated_programmer.gif)
 
 # 💫 About Me:
-💡   I’m currently studying Computer Science and Engineering at North South University.<br>💻   In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.<br>🌱  You can shoot me an email at mrittika.nsu12@gmail.com!
-
+Here are a few things you might want to know about me🌟
+🚀 Driven by passion in every role, from functional to automation testing.
+🌟 Always eager to dive into new technologies, problem-solving, and enhancing testing skills.
+⏰ Committed to meeting deadlines with efficiency and precision.
+💪 Ready to go the extra mile to achieve exceptional results.
+🔍 Keen on meticulously crafting and executing test plans for seamless software delivery.
+🚀 Seeking Opportunities: Looking to contribute to a dynamic team, ensuring high-quality software solutions through robust SQA practices.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/mrittika.sengupta.735/photos) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_m_r_i_t_t_i_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mrittika-sengupta-5469121ba/) 
